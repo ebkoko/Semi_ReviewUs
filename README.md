@@ -3,7 +3,7 @@
 - 프로젝트 기간 : 2022.11.14 ~ 2022.12.02<br>
 - 프로젝트 방식 : Sping MVC<br>
 - 개발 도구 : STS3, MySQL Workbench, VSCode<br>
-- 개발 언어 : JAVA, HTML, CSS, JavaScript, jQuery<br>
+- 개발 언어 : JAVA, JSP, CSS, JavaScript, jQuery<br>
 - 오픈 API : KakaoMap api<br><br>
 
 <h3>프로젝트 설명</h3><br>
