@@ -43,7 +43,7 @@
 		
 	</form>
 	<div id="btns">
-		<button type="button" id="btnList" onclick="location.href='/board/getAdminboardList.do'">목록</button>
+		<button type="button" id="btnList" onclick="location.href='/admin/getAdboardlist.do'">목록</button>
 		<button type="submit" id="btnUpdate">수정</button>
 		<button type="button" id="btnDelete" onclick="location.href='/board/deleteAdminboard.do?boardNo=${board.boardNo}'">삭제</button>
 	</div>

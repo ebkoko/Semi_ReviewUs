@@ -65,16 +65,16 @@
 		<nav id="main">
 			<ul class="main-nav">
 				<li>
-					<a href="/board/getBoardList.do">&ensp;BARS ＆ PUBS&emsp;</a>
+					<a href="/board/getBoardList.do?boardCatecd=3">&ensp;BARS ＆ PUBS&emsp;</a>
 				</li>			
 				<li>
-					<a href="/board/getBoardList.do">&ensp;DESSERT PLACES&emsp;</a>
+					<a href="/board/getBoardList.do?boardCatecd=2">&ensp;DESSERT PLACES&emsp;</a>
 				</li>			
 				<li>
-					<a href="/board/getBoardList.do">&ensp;RESTAURANTS&emsp;</a>
+					<a href="/board/getBoardList.do?boardCatecd=4">&ensp;RESTAURANTS&emsp;</a>
 				</li>			
 				<li>
-					<a href="/board/getBoardList.do">&ensp;HOTEL</a>
+					<a href="/board/getBoardList.do?boardCatecd=1">&ensp;HOTEL</a>
 				</li>			
 			</ul>
 		</nav>

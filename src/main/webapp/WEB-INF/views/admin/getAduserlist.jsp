@@ -40,7 +40,7 @@
 <jsp:include page="${pageContext.request.contextPath }/header.jsp"></jsp:include>
 
 	<div style="width:1500px; margin:20px auto;">
-		<h2>게시글 관리</h2>
+		<h2>회원 관리</h2>
 			<div id="section1">
 				<h3>관리자 메뉴</h3>
 				<ul>
